@@ -9,7 +9,7 @@
 
 - method1: Neural distinguishers trained with ciphertext pairs only.
 
-- method2: Neural distinguisher trained using data format in [1].
+- method2: Neural distinguishers trained using data format in [1].
 
 -   If you want to evaluate our neural distinguishers, please go to the corresponding folder and execute the following code
 ```bash
